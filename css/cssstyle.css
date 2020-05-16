@@ -1,0 +1,36 @@
+body {
+  background-image: url("https://i.pinimg.com/originals/82/41/e3/8241e34c7469cfee97b45c2cf5dfa487.jpg");
+  background-size: 100vw auto
+    
+}
+.site-title {
+  color: cyan;
+  font-family: "Times new roman";
+  text-align: center;
+}
+
+.site-subtitle {
+  color: cyan;
+  font-family: arial;
+  text-align: center;
+}
+
+.menu {
+  background-color: Gray;
+  }
+.menu li {
+  list-style: none;
+}
+.menu ul {
+  display: flex;
+  justify-content: space-around;
+}
+a {
+  text-decoration: none;
+  color: yellow;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+
